@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [yet to add](www.example.com)
-- Live Site URL: [yet to add](www.example.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/solution-of-results-summary-component-responsive-mobilefirst-_8jyRQT0aq](https://www.frontendmentor.io/solutions/solution-of-results-summary-component-responsive-mobilefirst-_8jyRQT0aq)
+- Live Site URL: [https://drougnov.github.io/results-summary-component-main](https://drougnov.github.io/results-summary-component-main)
 
 ## My process
 
