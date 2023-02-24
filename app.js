@@ -18,19 +18,15 @@ fetch('./data.json')
                     <span class="summary__score"><span class="summary__score-point">${data[i].score}</span> / 100</span>
                 </li>`
             sum += data[i].score;
-            scorePoint = Math.round(sum / data.length);
         }
-    })
-
-
-let scorePointText = document.querySelector('.result__score-point');
-window.onload = function(){
-    var count = 0;
-    var interval = setInterval(function() {
-        count++;
-        scorePointText.innerText = count;
-        if (count >= scorePoint) {
-            clearInterval(interval);
-        }
-    }, 10);
-}
+        scorePoint = Math.round(sum / data.length);
+        let scorePointText = document.querySelector('.result__score-point');
+        var count = 0;
+        var interval = setInterval(function() {
+            count++;
+            scorePointText.innerText = count;
+            if (count >= scorePoint) {
+                clearInterval(interval);
+            }
+        }, 10);
+    });
